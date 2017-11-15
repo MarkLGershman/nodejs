@@ -1,0 +1,11 @@
+make a new folder called deploydprojects in the same directory
+go into comm promp and type in dpd create sportstore
+dpd -p -5500 sportsstore\app.dpd (this tells it what port to run on)
+dashboard
+IN CHROME: create collection
+/products
+add these:
+name (required)
+description (required)
+category(required)
+price(required) CLICK ON DROPDOWN AND CHANGE TO NUMBER
